@@ -1,90 +1,191 @@
-<h2 align="left">Hi 👋! My name is Jatin Vats and I'm a Full Stack (MERN) Developer, from India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Jatin Vats</h1>
 
-###
+<h3 align="center">
+Full Stack MERN Developer • Backend Engineer • AI Enthusiast
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinvats123&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinvats123&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+Building scalable web applications, backend systems, AI-powered tools and modern user experiences.
+</p>
 
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<h3 align="left">🚀 About Me</h3>
-
-<ul>
-  <li>🔭 I’m currently working on <b>Backend Projects (REST APIs using Node.js, Express & MongoDB)</b></li>
-  <li>🌱 I’m currently learning <b>Authentication (JWT), MongoDB Optimization & Backend Best Practices</b></li>
-  <li>👨‍💻 All of my projects are available at <b>https://github.com/jatinvats123</b></li>
-  <li>📝 I regularly write articles on <b>GeeksforGeeks</b> 👉 https://www.geeksforgeeks.org/profile/jatinvats123</li>
-  <li>💬 Ask me about <b>React, JavaScript, Tailwind CSS, Node.js, Express, MongoDB, REST APIs</b></li>
-  <li>📫 How to reach me <b>jatinvats653@gmail.com</b></li>
-  <li>📄 Know about my experiences 👉 <b>https://1drv.ms/w/c/dca052045e690d6e/IQB4P4cw2SETS4R3wsp2XWPBAaYRJA1ZekfjKU6bGY3Rw_4?e=H63dqE</b></li>
-  <li>⚡ Fun fact: <b>I enjoy building real-world UI projects like MacOS-style web apps</b></li>
-</ul>
-
-###
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="35" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
-</div>
-
-###
-
-<h3 align="left">🤝 Connect with me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jatin-vats-60hef/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<p align="center">
+  <a href="mailto:jatinvats653@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://instagram.com/jatiiin.0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.linkedin.com/in/jatin-vats-60hef/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://twitter.com/jatiiiiin0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  <a href="https://github.com/jatinvats123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="mailto:jatinvats653@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://www.geeksforgeeks.org/profile/jatinvats123">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+</p>
 
-  <a href="https://www.geeksforgeeks.org/profile/jatinvats123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
-  </a>
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<br clear="both">
+- 💼 Full Stack MERN Developer from India
+- 🚀 Currently working as a **Full Stack Development Intern at WavyGo Mobility Services**
+- 🔥 Passionate about Backend Engineering, REST APIs and scalable architectures
+- 🤖 Exploring AI applications using Gemini API and Function Calling
+- 🐳 Learning Docker, deployment pipelines and production-ready backend development
+- 🏆 Participated in multiple hackathons and built production-grade full stack applications
+- 🌱 Currently improving System Design, Backend Development and DevOps fundamentals
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+---
 
-###
+## 🚀 Featured Projects
+
+### 🛒 Aveniq — Full Stack E-Commerce Platform
+
+**Tech Stack**
+
+React • Redux Toolkit • Node.js • Express • MongoDB • JWT • Razorpay • Tailwind CSS
+
+### Features
+
+- Secure JWT Authentication
+- Google OAuth
+- Role Based Access Control
+- Product Management
+- Wishlist
+- Shopping Cart
+- Orders
+- Payments
+- Seller Dashboard
+- Admin Dashboard
+- ImageKit Integration
+
+🔗 Live: https://aveniq-sooty.vercel.app
+
+🔗 Code: https://github.com/jatinvats123/SNITCH-ECOM
+
+---
+
+### 📊 Infrastructure Monitoring Dashboard
+
+Production-ready monitoring platform for HTTP & API endpoints.
+
+**Highlights**
+
+- Real-time monitoring
+- Incident management
+- JWT Authentication
+- Docker Compose
+- Railway Deployment
+- Analytics Dashboard
+- Historical Logs
+
+---
+
+### 🤖 DebugMind AI
+
+AI-powered autonomous debugging agent.
+
+**Highlights**
+
+- Gemini Function Calling
+- Automated debugging workflow
+- Root cause analysis
+- Regression testing
+- Evidence-based fixes
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,railway,vscode" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatinvats123&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinvats123&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jatinvats123&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinvats123&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jatinvats123&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:jatinvats653@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jatin-vats-60hef/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/jatiiin.0">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/jatiiiiin0">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/jatinvats123">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories.
+</p>
